@@ -1,0 +1,39 @@
+[submodule "discourse-custom-header-links-icons-component"]
+	path = discourse-custom-header-links-icons-component
+	url = https://github.com/bmc-core/discourse-custom-header-links-icons-component.git
+[submodule "discourse-breadcrumb-links-component"]
+	path = discourse-breadcrumb-links-component
+	url = https://github.com/bmc-core/discourse-breadcrumb-links-component.git
+[submodule "discourse-character-count-component"]
+	path = discourse-character-count-component
+	url = https://github.com/bmc-core/discourse-character-count-component.git
+[submodule "discourse-right-sidebar-blocks-component"]
+	path = discourse-right-sidebar-blocks-component
+	url = https://github.com/bmc-core/discourse-right-sidebar-blocks-component.git
+[submodule "discourse-new-topic-header-button-component"]
+	path = discourse-new-topic-header-button-component
+	url = https://github.com/bmc-core/discourse-new-topic-header-button-component.git
+[submodule "discourse-post-voting"]
+	path = discourse-post-voting
+	url = https://github.com/bmc-core/discourse-post-voting.git
+[submodule "discourse-gifs-component"]
+	path = discourse-gifs-component
+	url = https://github.com/bmc-core/discourse-gifs-component.git
+[submodule "discourse-theme"]
+	path = discourse-theme
+	url = https://github.com/bmc-core/discourse-theme.git
+[submodule "discourse-ai"]
+	path = discourse-ai
+	url = https://github.com/bmc-core/discourse-ai.git
+[submodule "discourse"]
+	path = discourse
+	url = https://github.com/bmc-core/discourse.git
+[submodule "discourse-solved"]
+	path = discourse-solved
+	url = https://github.com/bmc-core/discourse-solved.git
+[submodule "discourse_docker"]
+	path = discourse_docker
+	url = https://github.com/bmc-core/discourse_docker.git
+[submodule "discourse-gamification"]
+	path = discourse-gamification
+	url = https://github.com/bmc-core/discourse-gamification.git
