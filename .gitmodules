@@ -31,3 +31,6 @@
 [submodule "plugins/discourse-solved"]
 	path = plugins/discourse-solved
 	url = https://github.com/bmc-core/discourse-solved.git
+[submodule "plugins/discourse-ai"]
+	path = plugins/discourse-ai
+	url = https://github.com/bmc-core/discourse-ai.git
