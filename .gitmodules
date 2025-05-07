@@ -28,3 +28,6 @@
 [submodule "plugins/discourse-gamification"]
 	path = plugins/discourse-gamification
 	url = https://github.com/bmc-core/discourse-gamification.git
+[submodule "plugins/discourse-solved"]
+	path = plugins/discourse-solved
+	url = https://github.com/bmc-core/discourse-solved.git
