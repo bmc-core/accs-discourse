@@ -10,3 +10,6 @@
 [submodule "components/discourse-new-topic-button-theme-component"]
 	path = components/discourse-new-topic-button-theme-component
 	url = https://github.com/bmc-core/discourse-new-topic-button-theme-component.git
+[submodule "components/discourse-gifs"]
+	path = components/discourse-gifs
+	url = https://github.com/bmc-core/discourse-gifs.git
