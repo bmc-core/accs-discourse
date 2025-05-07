@@ -25,3 +25,6 @@
 [submodule "components/discourse-breadcrumb-links"]
 	path = components/discourse-breadcrumb-links
 	url = https://github.com/bmc-core/discourse-breadcrumb-links.git
+[submodule "plugins/discourse-gamification"]
+	path = plugins/discourse-gamification
+	url = https://github.com/bmc-core/discourse-gamification.git
