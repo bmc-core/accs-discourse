@@ -19,3 +19,6 @@
 [submodule "components/discourse-icon-header-links"]
 	path = components/discourse-icon-header-links
 	url = https://github.com/bmc-core/discourse-icon-header-links.git
+[submodule "components/discourse-header-search-component"]
+	path = components/discourse-header-search-component
+	url = https://github.com/bmc-core/discourse-header-search-component.git
