@@ -34,3 +34,6 @@
 [submodule "plugins/discourse-ai"]
 	path = plugins/discourse-ai
 	url = https://github.com/bmc-core/discourse-ai.git
+[submodule "plugins/discourse-post-voting"]
+	path = plugins/discourse-post-voting
+	url = https://github.com/bmc-core/discourse-post-voting.git
