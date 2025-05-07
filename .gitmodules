@@ -4,3 +4,6 @@
 [submodule "discourse_docker"]
 	path = discourse_docker
 	url = https://github.com/bmc-core/discourse_docker.git
+[submodule "components/discourse-tc-character-count"]
+	path = components/discourse-tc-character-count
+	url = https://github.com/bmc-core/discourse-tc-character-count.git
