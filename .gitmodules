@@ -7,3 +7,6 @@
 [submodule "components/discourse-tc-character-count"]
 	path = components/discourse-tc-character-count
 	url = https://github.com/bmc-core/discourse-tc-character-count.git
+[submodule "components/discourse-new-topic-button-theme-component"]
+	path = components/discourse-new-topic-button-theme-component
+	url = https://github.com/bmc-core/discourse-new-topic-button-theme-component.git
