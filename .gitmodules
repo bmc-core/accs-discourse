@@ -37,3 +37,9 @@
 [submodule "plugins/discourse-post-voting"]
 	path = plugins/discourse-post-voting
 	url = https://github.com/bmc-core/discourse-post-voting.git
+[submodule "components/discourse-newcomer-popup-message-component"]
+	path = components/discourse-newcomer-popup-message-component
+	url = https://github.com/bmc-core/discourse-newcomer-popup-message-component.git
+[submodule "plugins/discourse-reactions"]
+	path = plugins/discourse-reactions
+	url = https://github.com/bmc-core/discourse-reactions.git
