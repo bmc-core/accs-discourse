@@ -1,18 +1,6 @@
-[submodule "discourse-post-voting"]
-	path = discourse-post-voting
-	url = https://github.com/bmc-core/discourse-post-voting.git
 [submodule "discourse-theme"]
 	path = discourse-theme
 	url = https://github.com/bmc-core/discourse-theme.git
-[submodule "discourse-ai"]
-	path = discourse-ai
-	url = https://github.com/bmc-core/discourse-ai.git
-[submodule "discourse-solved"]
-	path = discourse-solved
-	url = https://github.com/bmc-core/discourse-solved.git
 [submodule "discourse_docker"]
 	path = discourse_docker
 	url = https://github.com/bmc-core/discourse_docker.git
-[submodule "discourse-gamification"]
-	path = discourse-gamification
-	url = https://github.com/bmc-core/discourse-gamification.git
