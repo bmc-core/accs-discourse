@@ -13,3 +13,6 @@
 [submodule "components/discourse-gifs"]
 	path = components/discourse-gifs
 	url = https://github.com/bmc-core/discourse-gifs.git
+[submodule "components/discourse-right-sidebar-blocks"]
+	path = components/discourse-right-sidebar-blocks
+	url = https://github.com/bmc-core/discourse-right-sidebar-blocks.git
